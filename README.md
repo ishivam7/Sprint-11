@@ -2,10 +2,6 @@
 
 A Next.js application configured with Jest and React Testing Library (RTL) for automated unit and component testing, fulfilling the Phase 1 Base Architecture (P0 - Mandatory) engineering requirements.
 
-## Important Links
-
-- **Live Repository:** https://github.com/Sarvesh-88/Sprint-11
-
 
 ### Tech Stack
 
